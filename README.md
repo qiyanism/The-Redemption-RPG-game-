@@ -1,2 +1,2 @@
 # The-Redemption-RPG-game-
-small size RPG game made by rpgmakermz  
+small size RPG game created by me, made with rpgmaker mz
